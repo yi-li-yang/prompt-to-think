@@ -1,3 +1,5 @@
+> **This repository has moved.** The `prompt-to-think` skill now lives in [yi-li-yang/skills](https://github.com/yi-li-yang/skills/tree/main/plugins/yili-skills/skills/prompt-to-think), which holds all my skills in one plugin, with this repository's full history under [`dev/prompt-to-think`](https://github.com/yi-li-yang/skills/tree/main/dev/prompt-to-think). Install with `/plugin marketplace add yi-li-yang/skills` then `/plugin install yili-skills@yili-skills`. This repository is no longer updated.
+
 # The Thinking Framework
 
 ## Install as a Claude Code plugin
